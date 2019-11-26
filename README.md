@@ -1,3 +1,7 @@
+![Ironhack Logo](https://media.licdn.com/dms/image/C4D03AQFdU_Pi7FHLAA/profile-displayphoto-shrink_200_200/0?e=1574294400&v=beta&t=qQAhR5scc6cAFZQpt8v84bMHDob0xrQnbtH0IyWgx0s) 
+
+@pedropbazzo
+
 <h1 align="center">
     <img alt="React RocketShoes" src="https://res.cloudinary.com/lukemorales/image/upload/v1562696000/readme_logos/react-rocketshoes_jy1lze.png" />
     <br>
@@ -80,12 +84,6 @@ $ yarn install
 $ yarn start
 ```
 
-## :memo: License
-This project is under the MIT license. See the [LICENSE](https://github.com/lukemorales/react-rocketshoes/blob/master/LICENSE) for more information.
-
----
-
-Made with ♥ by Luke Morales :wave: [Get in touch!](https://www.linkedin.com/in/lukemorales/)
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/

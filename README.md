@@ -42,7 +42,7 @@ O layout do projeto está em anexo com esse desafio. O arquivo `.sketch` (no dir
 
 ### Resultado:
 
-<img src=".github/demo.gif" height="400">
+<img alt="GitHub" src="https://img.shields.io/github/license/lukemorales/react-rocketshoes.svg">
 
 ## 📅 Entrega
 
